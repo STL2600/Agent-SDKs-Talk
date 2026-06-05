@@ -83,8 +83,6 @@ Only usable with a specific LLM provider.
 ## OpenAI Agents SDK
 
  - Python & TypeScript
- - Successor to "Swarm" (their experimental toy)
- - Minimal primitives: agents, handoffs, guardrails, sessions
  - Built-in tracing dashboard
  - Works with 100+ LLMs via the OpenAI API
 
