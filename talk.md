@@ -80,7 +80,7 @@ Only usable with a specific LLM provider.
 
 :::
  
- ## OpenAI Agents SDK
+## OpenAI Agents SDK
 
  - Python & TypeScript
  - Successor to "Swarm" (their experimental toy)
@@ -96,11 +96,11 @@ Only usable with a specific LLM provider.
 
 :::
 
- ## OpenAI Agents SDK
+## OpenAI Agents SDK
  
   - Best for third party support
 
- ## AWS Strands
+## AWS Strands
 
  - Python & TypeScript
  - Remote session manager for persisted state
@@ -114,11 +114,11 @@ Only usable with a specific LLM provider.
 
 :::
 
- ## AWS Strands
+## AWS Strands
  
   - Very clearly playing second fiddle to AgentCore
 
- ## Google ADK
+## Google ADK
 
  - Most polyglot: Python, Java, Go, TypeScript
  - Bidirectional audio/video streaming
@@ -131,11 +131,11 @@ Only usable with a specific LLM provider.
 
 :::
 
- ## Google ADK
+## Google ADK
  
  - Probably best for "assistants" 
 
- ## Anthropic Agent SDK
+## Anthropic Agent SDK
 
  - Python & TypeScript
  - The exact same harness that powers Claude Code
@@ -150,11 +150,11 @@ Only usable with a specific LLM provider.
 
 :::
 
- ## Anthropic Agent SDK
+## Anthropic Agent SDK
  
   - Most "Batteries Included"
  
- # Generic
+# Generic
 
 ::: notes
 
@@ -162,7 +162,7 @@ Usable with more than one provider.
 
 :::
 
- ## LangGraph / LangChain
+## LangGraph / LangChain
 
  - Python & TypeScript
  - LangChain: the original
