@@ -180,13 +180,13 @@ Usable with more than one provider.
 ## LlamaIndex
 
  - Python & TypeScript port
- - Originally "GPT Index" — RAG/data-first
- - Best-in-class ingestion, indexing, retrieval
+ - Originally "GPT Index"
+ - RAG/data-first
  - LlamaParse for document parsing / OCR
 
 ::: notes
 
- - Best if your primary use case is deep research
+ - Best if your primary use case is deep research, document analysis
 
 :::
 
@@ -228,7 +228,8 @@ Usable with more than one provider.
  
 # Conclusions
 
- - 
+ - OpenAI
+ - LangChain
 
 ---
 
